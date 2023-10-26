@@ -1,0 +1,12 @@
+NodeList
+queueMicrotask
+CountQueuingStrategy
+MediaQueryListEvent
+webkitURL
+window
+WScript
+eval
+requestAnimationFrame
+alert
+addEventListener
+TextDecoder
